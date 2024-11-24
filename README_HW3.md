@@ -9,3 +9,6 @@
   * Data Preprocessing: The initial cells typically handle data loading and preprocessing. 
   * Model Training: After data preprocessing, define the autoencoder model and train it using libraries like Keras (via TensorFlow) or PyTorch.
   * Visualization: Use Plotly or Matplotlib to visualize the training progress, such as monitoring the loss curve over epochs.
+
+* Colab link
+  * https://colab.research.google.com/drive/15Pt8j8mtuMPJ7keRCH2YbxLaZ49ay1Tl#scrollTo=iHw85IsjF7mk
