@@ -12,3 +12,7 @@
 
 * Colab link
   * https://colab.research.google.com/drive/15Pt8j8mtuMPJ7keRCH2YbxLaZ49ay1Tl#scrollTo=iHw85IsjF7mk
+
+* Other information
+  * Due to my revised code still can't run successfully and I couldn't find the problem before the deadline, the colab link is my first version for this HW.
+  * The first try didn't change too many parameters, and even I had a lot of ideas to change the reward rule, the other version can't run actually so please use this successful one to score. Thank you very much.
